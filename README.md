@@ -4,6 +4,22 @@
 
 A systematic comparison study of traditional machine learning, deep learning, and ensemble methods for heart disease prediction using the Cleveland dataset. This project demonstrates proficiency in multiple ML paradigms and rigorous experimental methodology.
 
+## 🧾 Table of Contents
+
+- [Project Objective](#-project-objective)
+- [Key Achievements](#-key-achievements)
+- [Dataset: Cleveland Heart Disease](#-dataset-cleveland-heart-disease)
+- [Models Implemented](#-models-implemented)
+- [Results & Performance Analysis](#-results--performance-analysis)
+- [Key Research Findings](#-key-research-findings)
+- [Technical Innovations](#-technical-innovations)
+- [Technical Stack](#-technical-stack)
+- [Project Structure](#-project-structure)
+- [Running the Project](#-running-the-project)
+- [Academic Rigor](#-academic-rigor)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Future Enhancements](#-future-enhancements)
+- [Project Highlights for Recruiters](#-project-highlights-for-recruiters)
 ## 🎯 Project Objective
 
 **Research Question**: Which machine learning approach achieves optimal performance for heart disease prediction - traditional algorithms, deep neural networks, or ensemble methods?
